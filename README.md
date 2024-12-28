@@ -12,7 +12,7 @@
 
 - 👯 I’m looking to collaborate on **Community Projects**
 
-- 💬 Ask me about **.NET, React, Angular, Go**
+- 💬 Ask me about **.NET, React, Angular, TypeScript, Go**
 
 - 📫 How to reach me **jeewonbh@gmail.com**
 
