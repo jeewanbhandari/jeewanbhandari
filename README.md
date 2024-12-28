@@ -1,3 +1,4 @@
+<img src="images/jeevanb.png">
 <h1 align="center">Hi 👋, I'm Jeevan Bhandari</h1>
 <h3 align="center">A passionate Full-Stack Software Engineer from Nepal</h3>
 
