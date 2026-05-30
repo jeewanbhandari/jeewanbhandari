@@ -1,6 +1,6 @@
 <img src="images/jeevanb.png">
 <h1 align="center">Hi 👋, I'm Jeevan Bhandari</h1>
-<h3 align="center">A passionate Full-Stack Software Engineer from Nepal</h3>
+<h3 align="center">An Experienced Full-Stack Software Engineer from Nepal</h3>
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=jeewanbhandari&label=Profile%20views&color=0e75b6&style=flat" alt="jeewanbhandari" /> </p> -->
 
