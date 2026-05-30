@@ -10,13 +10,13 @@ src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
 ## 🚀 About Me
 
-💼 Software Engineer with 4+ years of experience building enterprise-grade applications
-🌍 Engineering remittance and payment systems supporting 100K+ daily transactions
-🏦 Experienced in Fintech, Banking, Payments, ERP, CRM & Insurance Solutions
-🔭 Currently contributing to large-scale financial platforms at Inficare Pvt. Ltd.
-🌱 Exploring System Design, Software Architecture, Distributed Systems, Cloud-Native Technologies & AI Applications
-🏗️ Passionate about building secure, resilient, and high-performance software
-⚡ I enjoy solving complex engineering challenges and building scalable software
+- 💼 Software Engineer with **4+ years of experience** building **enterprise-grade applications**
+- 🌍 Engineering **remittance and payment systems** supporting **100K+ daily transactions**
+- 🏦 Experienced in **Fintech, Banking, Payments, ERP, CRM & Insurance Solutions**
+- 🔭 Currently contributing to **large-scale financial platforms** at **Inficare Pvt. Ltd.**
+- 🌱 Exploring **System Design, Software Architecture, Distributed Systems, Cloud-Native Technologies & AI Applications**
+- 🏗️ Passionate about building **secure, resilient, and high-performance software**
+- ⚡ I enjoy solving **complex engineering challenges** and building **scalable software**
 
 ---
 
