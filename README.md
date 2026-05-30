@@ -65,24 +65,121 @@ src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 ## 📌 Featured Projects
 
 ### 🌍 GmoneyTrans
-Global remittance and payment platform serving thousands of users daily.
+Leading South Korean remittance and payment platform processing 100K+ daily transactions.
 
-**Tech:** .NET, SQL Server, Azure, REST APIs
+**Highlights**
+- Global remittance to 100+ countries
+- ATM deposit and withdrawal services
+- Wallet-to-wallet transfers
+- Transportation card top-ups
+- Convenience store deposits
+- AML, OFAC, STR compliance implementation
+
+**Tech Stack**
+.NET, SQL Server, Azure DevOps, IIS, REST APIs
+
+---
 
 ### 💸 iRemitConnect
-Centralized remittance integration platform connecting 150+ partners worldwide.
+Enterprise remittance integration platform connecting 150+ international partners.
 
-**Tech:** ASP.NET Core, SQL Server, API Gateway
+**Highlights**
+- Partner balance inquiries
+- Real-time transaction status tracking
+- Failed transaction reprocessing
+- Connection monitoring
+- Account validation services
+- Centralized API Gateway
 
-### 🏦 Card APIs
-Wallet load/withdrawal platform integrated with South Korean banks and ATM networks.
+**Tech Stack**
+ASP.NET Core, MSSQL, REST APIs
 
-**Tech:** .NET Core, MSSQL, Banking APIs
+---
 
-### 📊 Neo ERP
-Enterprise resource planning system covering accounting, inventory, HR and sales.
+### 💳 Card APIs
+Banking and payment API ecosystem for Gmoney Wallet.
 
-**Tech:** ASP.NET MVC, Angular, SQL Server
+**Highlights**
+- ATM deposits and withdrawals
+- Transportation payments
+- Mobile recharge integrations
+- South Korean banking integrations
+- Wallet funding and withdrawals
+
+**Tech Stack**
+.NET Core, MSSQL, Banking APIs
+
+---
+
+### 📱 Send APIs
+Core mobile API infrastructure powering GmoneyTrans.
+
+**Highlights**
+- Global remittance services
+- Wallet-to-wallet transfers
+- ATM integrations
+- Mobile recharge services
+- Real-time transaction processing
+
+**Tech Stack**
+ASP.NET Core, SQL Server
+
+---
+
+### 🏢 Neo ERP
+
+Comprehensive Enterprise Resource Planning platform.
+
+**Modules**
+- Accounting
+- Inventory Management
+- Human Resources
+- Procurement
+- Sales Management
+- Supply Chain Management
+
+**Highlights**
+- Real-time business insights
+- Centralized data management
+- Scalable enterprise architecture
+- Multi-department integration
+
+**Tech Stack**
+ASP.NET MVC, Angular, SQL Server
+
+---
+
+### 📊 Neo CRM
+
+One of Nepal's largest CRM and Marketing Automation solutions.
+
+**Highlights**
+- Lead Management
+- Customer Tracking
+- Marketing Automation
+- Lead Scoring
+- Task Scheduling
+- Contact Management
+- Sales Pipeline Tracking
+
+**Tech Stack**
+.NET, Angular, SQL Server, Redis
+
+---
+
+### 🛡️ Neo Insurance
+
+Mobile-first non-life insurance platform.
+
+**Highlights**
+- Vehicle Insurance Purchase
+- Policy Management
+- Claims Processing
+- Third-party Insurance Integration
+- Real-time Policy Updates
+
+**Tech Stack**
+ASP.NET Core, MSSQL, REST APIs
 
 ---
 
